@@ -1,1 +1,1 @@
-where am i readme
+shell basics
